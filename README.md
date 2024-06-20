@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrusman93
-- 👀 I’m interested in Machine Learning & Automation
+- 👀 I’m interested in Agile Methodologies and Best Coding Practices  
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Machine learning projects
+- 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 How to reach me feel free to drop email @ usman.munawar@powersoft19.com
 
 <!---
